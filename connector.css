@@ -1,0 +1,30 @@
+
+.viki{
+    background-color:#d7a674;
+    
+    
+    padding-left:450px;
+
+    h2{
+        color:rgba(221, 165, 9, 0.853);
+    }
+}
+.flex{
+    background-color:whitesmoke;
+    margin:2opx auto;
+    border-radius: 1rem;
+   max-width: 500px; 
+    padding: 30px;
+    max-height: 1440px;
+
+
+}
+.one{
+    background-color:lightpink;
+}
+.colorq td>{
+    color:lightsalmon
+}
+.four{
+    
+}
